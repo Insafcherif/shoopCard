@@ -1,0 +1,23 @@
+.card{
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 20px;
+
+}
+.cardT {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+.btn {
+    margin-left: 5px;
+    margin-right: 5px;  
+}
+.Text {
+    font-size: 25px;
+    font-family: Verdana;
+}
+.likebutton {
+ filter: grayscale(100%)
+}
